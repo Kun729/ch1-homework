@@ -10,15 +10,15 @@ int main(void)
 	scanf_s("%d%d%d", &a, &b, &c);
 	
 	if (a > b && a > c)
-		printf("%d is maxium\n", a);
+		printf("%d琌程\n", a);
 	if (b > a&&b > c)
-		printf("%d is maxium\n", b);
+		printf("%d琌程\n", b);
 	if (c > b&&c > a)
-		printf("%d is maxium\n", c);
+		printf("%d琌程\n", c);
 	if (a < b && a < c)
-		printf("%d is minium\n", a);
+		printf("%d琌程\n", a);
 	if (b < a&&b < c)
-		printf("%d is minium\n", b);
+		printf("%d琌程\n", b);
 	if (c < b&&c < a)
-		printf("%d is minium\n", c);
+		printf("%d琌程\n", c);
 }

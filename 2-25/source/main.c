@@ -3,11 +3,11 @@
 
 int main(void)
 {
-	printf("   CCC\n");
-	printf(" C     C\n");
-	printf("C       C\n");
-	printf("C       C\n");
-	printf(" C     C\n");
+	printf("   CCCC\n");
+	printf(" C      C\n");
+	printf("C        C\n");
+	printf("C        C\n");
+	printf(" C      C\n");
 	printf("\n");
 	printf("KKKKKKKKKK\n");
 	printf("    K\n");
